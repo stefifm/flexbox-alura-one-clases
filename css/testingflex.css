@@ -1,0 +1,12 @@
+.flexContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.flexItem {
+  width: 200px;
+}
+
+.flexItem:first-child {
+  flex-shrink: 2;
+}
