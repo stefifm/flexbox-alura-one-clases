@@ -14,4 +14,5 @@ Clase de Alura Oracle One sobre posicionar elementos de una página web utilizan
 ### Y se aplicó el diseño responsivo a la página
 
 ### Página modelo: Mini Alura 
+https://stefifm.github.io/flexbox-alura-one-clases/
 
